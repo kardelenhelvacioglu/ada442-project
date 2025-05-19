@@ -32,7 +32,6 @@ def create_interface():
                 </ul>
                 <hr style="border:1px dashed #f3a6c0;">
                 <p style="font-style: italic; font-size:15px; color:#5e3a47;">
-                    💡 "Predict the future, one input at a time."
                 </p>
             </div>
         """, unsafe_allow_html=True)
